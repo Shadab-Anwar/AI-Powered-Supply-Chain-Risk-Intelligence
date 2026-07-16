@@ -21,7 +21,7 @@ This project develops an end-to-end Machine Learning pipeline to predict **Late 
 - 📈 Model Evaluation
 - ![Metric_Scores](images/Metric_Scores.png)
 - ![Confusion_Matrix](images/Confusion_Matrix.png)
-- ![ROC_Curve](images/Roc_Curve.png)
+- ![ROC_Curve](images/ROC_Curve.png)
 - 🔍 Feature Importance Analysis
 - ![Feature_Importance](images/Feature_Importance.png)
 

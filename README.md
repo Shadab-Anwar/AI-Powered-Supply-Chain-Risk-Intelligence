@@ -16,9 +16,14 @@ This project develops an end-to-end Machine Learning pipeline to predict **Late 
 - 🧹 Data Cleaning & Preprocessing
 - ⚙️ Feature Engineering
 - 🤖 Multiple ML Model Comparison
+- ![Model Comparison](images/Model_Comparison.png)
 - 🌲 Extra Trees Classifier (Best Model)
 - 📈 Model Evaluation
+- ![Metric_Scores](images/Metric_Scores.png)
+- ![Confusion_Matrix](images/Confusion_Matrix.png)
+- ![ROC_Curve](images/Roc_Curve.png)
 - 🔍 Feature Importance Analysis
+- ![Feature_Importance](images/Feature_Importance.png)
 
 ---
 
@@ -61,6 +66,8 @@ Feature Importance
 - Random Forest
 - Extra Trees Classifier
 - Gradient Boosting
+
+  ![Model Comparison](images/Model_Comparison.png)
 
 **🏆 Best Performing Model:** Extra Trees Classifier
 
